@@ -4,7 +4,7 @@ scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.chestOpen, function (spri
     if (score == 1) {
         tiles.setTilemap(tilemap`level_3`)
     } else if (score == 2) {
-    	
+        tiles.setTilemap(tilemap`level_3`)
     } else if (score == 3) {
     	
     } else if (score == 4) {
