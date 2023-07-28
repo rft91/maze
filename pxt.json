@@ -2,7 +2,8 @@
     "name": "Maze",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-skillmap-sample": "github:microsoft/pxt-skillmap-sample#b36c62725e3fe26fca25b64cf158878b5fccd9be"
     },
     "files": [
         "main.blocks",
