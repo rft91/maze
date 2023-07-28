@@ -4,19 +4,19 @@ scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.chestOpen, function (spri
     if (score == 1) {
         tiles.setTilemap(tilemap`level_3`)
     } else if (score == 2) {
-        tiles.setTilemap(tilemap`level_3`)
+        tiles.setTilemap(tilemap`level_4`)
     } else if (score == 3) {
-        tiles.setTilemap(tilemap`level_3`)
+        tiles.setTilemap(tilemap`level1`)
     } else if (score == 4) {
-        tiles.setTilemap(tilemap`level_3`)
+        tiles.setTilemap(tilemap`level2`)
     } else if (score == 5) {
-    	
+        tiles.setTilemap(tilemap`level3`)
     } else if (score == 6) {
-    	
+        tiles.setTilemap(tilemap`level4`)
     } else if (score == 7) {
-    	
+        tiles.setTilemap(tilemap`level5`)
     } else if (score == 8) {
-    	
+        tiles.setTilemap(tilemap`level6`)
     } else if (score == 9) {
     	
     } else if (score == 10) {
